@@ -1,7 +1,7 @@
 package gribtest
 
 import (
-	"github.com/nilsmagnus/grib/griblib"
+	"github.com/giraudan/grib/griblib"
 	"testing"
 )
 

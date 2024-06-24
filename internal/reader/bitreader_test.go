@@ -6,8 +6,8 @@ import (
 	"testing"
 
 	"github.com/golang/mock/gomock"
-	"github.com/nilsmagnus/grib/internal/mocks"
-	"github.com/nilsmagnus/grib/internal/reader"
+	"github.com/giraudan/grib/internal/mocks"
+	"github.com/giraudan/grib/internal/reader"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

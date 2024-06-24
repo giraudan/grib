@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/nilsmagnus/grib/internal/reader"
+	"github.com/giraudan/grib/internal/reader"
 )
 
 // Data2 is a Grid point data - complex packing

@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/nilsmagnus/grib/griblib"
+	"github.com/giraudan/grib/griblib"
 )
 
 func beforeTests(t *testing.T) func(t *testing.T) {

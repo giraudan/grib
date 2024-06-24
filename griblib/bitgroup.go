@@ -3,7 +3,7 @@ package griblib
 import (
 	"fmt"
 
-	"github.com/nilsmagnus/grib/internal/reader"
+	"github.com/giraudan/grib/internal/reader"
 )
 
 type bitGroupParameter struct {

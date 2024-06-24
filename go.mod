@@ -1,4 +1,4 @@
-module github.com/nilsmagnus/grib
+module github.com/giraudan/grib
 
 go 1.16
 

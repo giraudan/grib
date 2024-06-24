@@ -4,7 +4,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/nilsmagnus/grib/griblib"
+	"github.com/giraudan/grib/griblib"
 )
 
 func BenchmarkReadMessages(b *testing.B) {
